@@ -1,7 +1,8 @@
 .App {
-  text-align: center;
+  display: flex;
+  flex-grow: 1;
+  flex-flow: row;
 }
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;

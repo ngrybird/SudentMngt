@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Section/> Verify Section title and subtitle for section 1`] = `
+<div>
+  <div
+    class="section-container"
+    data-testid="custom-sections"
+  >
+    <div
+      class="section-data"
+    >
+      <span>
+        <img
+          src="Ellipse.png"
+        />
+        <img
+          class="hover-image"
+          src="user.png"
+        />
+      </span>
+      <div
+        class="section-title"
+      >
+        62
+      </div>
+      <div
+        class="section-subtitle"
+      >
+        Students
+      </div>
+    </div>
+  </div>
+</div>
+`;

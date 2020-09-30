@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Features
+
+1. Added Reusable components.
+2. Added unit tests.
+3. used react hooks.
+
 ## Available Scripts
 
 In the project directory, you can run:

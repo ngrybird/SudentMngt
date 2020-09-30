@@ -1,0 +1,53 @@
+.table-container {
+  width: 395px;
+  height: auto;
+  overflow-y: scroll;
+  border: solid 0px;
+  border-radius: 10px;
+  margin-left: 40px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background: white;
+  box-shadow: 0 8px 6px -6px grey;
+}
+.table-header {
+  padding: 25px 30px;
+  font-size: 14px;
+  font-weight: 600;
+  padding-bottom: 15px !important;
+}
+.table-header button {
+  background: white;
+  border: none;
+  float: right;
+  color: grey;
+}
+.table-header button:focus {
+  border: none;
+  outline: 0;
+}
+hr {
+  color: #606060;
+}
+.student-list {
+  height: 300px;
+  overflow-y: auto;
+}
+.table-row {
+  display: flex;
+  position: relative;
+  flex-flow: row wrap;
+  align-items: center;
+  margin-left: 10px;
+  margin-top: 20px;
+}
+.row-title {
+  font-size: 14px;
+  color: grey;
+  margin-left: 10px;
+}
+.row-marks {
+  position: absolute;
+  font-weight: 600;
+  right: 20px;
+}

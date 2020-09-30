@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<NavBar/> Verify Name on the profile 1`] = `
+<div>
+  <div
+    class="navbar"
+  >
+    <div
+      class="profile"
+    >
+      <span
+        class="profile-info"
+      >
+        <div
+          class="profile-name"
+          data-testid="id-profile-name"
+        >
+          Cody Simmons
+        </div>
+        <div
+          class="profile-designation"
+        >
+          Lecturer
+        </div>
+      </span>
+      <span
+        class="profile-avatar"
+      >
+        <img
+          alt="avatar"
+          height="50px"
+          src="avatar-header.png"
+          width="50px"
+        />
+      </span>
+      <span
+        class="profile-more"
+      >
+        <img
+          alt="avatar"
+          height="6px"
+          src="Vector.png"
+          width="12px"
+        />
+      </span>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,51 @@
+.dashboard-container {
+  background: #f8f8fb;
+  display: flex;
+  flex-flow: column;
+  flex-grow: 1;
+}
+.dashboard-header {
+  margin-top: 66px;
+}
+.dashboard-text {
+  margin-left: 40px;
+  font-size: 30px;
+  font-weight: 600;
+}
+.dashboard-subtext {
+  margin-left: 40px;
+  font-size: 14px;
+  color: grey;
+}
+.navbar {
+  padding-top: 27px;
+  display: flex;
+  flex-flow: column wrap;
+  align-items: flex-end;
+}
+.profile {
+  display: flex;
+  width: 225px;
+}
+.profile-info {
+  position: relative;
+  right: 10px;
+  top: 10px;
+  text-align: right;
+}
+.profile-name {
+  font-size: 14px;
+}
+
+.profile-designation {
+  font-size: 12px;
+}
+.profile-more {
+  position: relative;
+  top: 10px;
+  left: 10px;
+}
+.all-sections {
+  display: flex;
+  flex-flow: row wrap;
+}

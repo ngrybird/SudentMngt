@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<StudentRow/> Verify Students details are rendered 1`] = `
+<div>
+  <div
+    class="table-row"
+    data-testid="student-row"
+  >
+    <span>
+      <img
+        height="40px"
+        src="Ellipse.png"
+        width="40px"
+      />
+    </span>
+    <span
+      class="row-title"
+    >
+      Annete Watson
+    </span>
+    <span
+      class="row-marks"
+    >
+      9.3
+    </span>
+  </div>
+</div>
+`;

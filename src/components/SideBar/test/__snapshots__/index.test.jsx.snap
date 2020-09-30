@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SideBar/> Verify sidebar rendered 1`] = `
+<div>
+  <div
+    class="sidebar"
+  >
+    <div
+      class="logo"
+    >
+      <img
+        alt="logo"
+        height="54px"
+        src="logo.png"
+        width="54px"
+      />
+    </div>
+  </div>
+</div>
+`;
